@@ -1,5 +1,7 @@
 # worldcup-soccer — every World Cup final, mapped
 
+[![Built with Periplum](https://img.shields.io/badge/built_with-Periplum-4da3ff)](https://periplum.js.org)
+
 The men's football (soccer) **World Cup** finals, 1930–2026, plotted at each tournament's
 host city and coloured by host continent — a tournament hopping around the globe every four
 years.
